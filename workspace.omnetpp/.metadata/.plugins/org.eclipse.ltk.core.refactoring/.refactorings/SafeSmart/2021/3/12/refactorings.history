@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SafeSmart/A01-results&apos; to &apos;A01-results(OLD)&apos;" description="Rename resource &apos;A01-results&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="A01-results" name="A01-results(OLD)" stamp="1616100298081" updateReferences="true"/>
+</session>

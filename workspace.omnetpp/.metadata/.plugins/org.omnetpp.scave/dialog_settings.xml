@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.omnetpp.scave.editors.ui.DatasetSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="738"/>
+		<item key="DIALOG_Y_ORIGIN" value="170"/>
+		<item key="DIALOG_WIDTH" value="450"/>
+		<item key="DIALOG_HEIGHT" value="529"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="org.omnetpp.scave.editors.ui.EditDialog">
+		<item key="DIALOG_X_ORIGIN" value="490"/>
+		<item key="DIALOG_Y_ORIGIN" value="74"/>
+		<item key="DIALOG_WIDTH" value="946"/>
+		<item key="DIALOG_HEIGHT" value="672"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="org.omnetpp.scave.wizard.ScaveExportWizard">
+		<item key="SqliteScalarFile:simtimeScaleExp" value="-12"/>
+		<item key="CSV-R:quoteChar" value="doublequote"/>
+		<item key="CSV-R:columnNames" value="true"/>
+		<item key="CSV-R:omitBlankColumns" value="true"/>
+		<item key="CSV-R:quoteEscaping" value="doubling"/>
+		<item key="CSV-R:precision" value="14"/>
+		<item key="CSV-R:separator" value="comma"/>
+		<item key="SqliteVectorFile:simtimeScaleExp" value="-12"/>
+		<item key="SqliteVectorFile:skipSpecialValues" value="false"/>
+	</section>
+</section>

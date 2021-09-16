@@ -1,0 +1,8 @@
+02:47:48 **** Incremental Build of configuration gcc-debug for project veins_inet ****
+make MODE=debug all 
+make[1]: Entering directory '/home/veins/src/veins/subprojects/veins_inet/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/veins/src/veins/subprojects/veins_inet/src'
+
+02:47:48 Build Finished. 0 errors, 0 warnings. (took 454ms)
+

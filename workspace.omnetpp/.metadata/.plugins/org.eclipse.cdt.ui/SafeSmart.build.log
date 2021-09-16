@@ -1,0 +1,6 @@
+02:58:56 **** Incremental Build of configuration release for project SafeSmart ****
+make MODE=release all 
+make: Nothing to be done for 'all'.
+
+02:58:56 Build Finished. 0 errors, 0 warnings. (took 702ms)
+

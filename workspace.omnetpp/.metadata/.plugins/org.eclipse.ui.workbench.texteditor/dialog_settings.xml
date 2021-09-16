@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="numBSM"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="numbsm"/>
+			<item value="HOWMANYEVS"/>
+			<item value="safesmartSubscribe"/>
+			<item value="metric"/>
+			<item value="static"/>
+			<item value="ifndef"/>
+			<item value="removed"/>
+			<item value="translate"/>
+			<item value="checkAndAddRequest"/>
+			<item value="remove"/>
+			<item value="activa"/>
+			<item value="printing"/>
+			<item value="debug"/>
+			<item value="curDist"/>
+			<item value="update dis"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1285"/>
+		<item key="DIALOG_Y_ORIGIN" value="115"/>
+		<item key="DIALOG_WIDTH" value="347"/>
+		<item key="DIALOG_HEIGHT" value="451"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+</section>
